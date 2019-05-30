@@ -1,7 +1,7 @@
 package chapter.v;
 
-import com.baidu.simple.PrintPackageName;
-import com.baidu.simple.Vector;
+import com.cmcc.simple.PrintPackageName;
+import com.cmcc.simple.Vector;
 import com.debugoff.*;
 
 public class Main {

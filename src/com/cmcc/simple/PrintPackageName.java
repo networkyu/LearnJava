@@ -1,4 +1,4 @@
-package com.baidu.simple;
+package com.cmcc.simple;
 
 public class PrintPackageName {
     public static void printPackageName(){
